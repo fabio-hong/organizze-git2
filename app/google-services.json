@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1017130407732",
+    "firebase_url": "https://projeto-organizze-git.firebaseio.com",
+    "project_id": "projeto-organizze-git",
+    "storage_bucket": "projeto-organizze-git.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017130407732:android:173c9229d767981f857761",
+        "android_client_info": {
+          "package_name": "com.meio.organizze_git2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017130407732-vf9gs8utdkqs9s78o8j5u7rko466t99f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meio.organizze_git2",
+            "certificate_hash": "f259ef1fb2c0dab5e15ad289a4d091fd20de0b78"
+          }
+        },
+        {
+          "client_id": "1017130407732-b7n0pldf51kb8bkgojefqip07cad0l58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUKKyHrIWCs7MSKVWyporZhOyfBtFWUhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017130407732-b7n0pldf51kb8bkgojefqip07cad0l58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
